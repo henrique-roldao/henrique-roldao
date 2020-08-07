@@ -10,15 +10,16 @@
 
 - 📫 How to reach me **henriqueroldao@rede.ulbra.br**
 
-- :notebook: Currently working with ⬇️
+**Languages and Tools**
 
-<p align="left">
-  <img src="https://image.flaticon.com/icons/svg/919/919826.svg" alt="css3" width="40" height="40"/>
-  <img src="https://image.flaticon.com/icons/svg/919/919827.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://image.flaticon.com/icons/svg/919/919828.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://image.flaticon.com/icons/svg/919/919825.svg" alt="node.js" width="40" height="40"/> 
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nunjucks_icon_130292.png" alt="nunjucks" width="40" height="40"/> 
-</p>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=henrique-roldao&show_icons=true" alt="henrique-roldao" /> </p>
 
