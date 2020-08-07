@@ -12,7 +12,13 @@
 
 - :notebook: Currently working with ⬇️
 
-<p align="left"><img src="https://image.flaticon.com/icons/svg/919/919826.svg" alt="css3" width="40" height="40"/> <img src="https://image.flaticon.com/icons/svg/919/919827.svg" alt="html5" width="40" height="40"/> <img src="https://image.flaticon.com/icons/svg/919/919828.svg" alt="javascript" width="40" height="40"/></p><p><img src="https://image.flaticon.com/icons/svg/919/919825.svg" alt="node.js" width="40" height="40"/> <p><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nunjucks_icon_130292.png" alt="nunjucks" width="40" height="40"/>
+<p align="left">
+  <img src="https://image.flaticon.com/icons/svg/919/919826.svg" alt="css3" width="40" height="40"/>
+  <img src="https://image.flaticon.com/icons/svg/919/919827.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://image.flaticon.com/icons/svg/919/919828.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://image.flaticon.com/icons/svg/919/919825.svg" alt="node.js" width="40" height="40"/> 
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nunjucks_icon_130292.png" alt="nunjucks" width="40" height="40"/> 
+</p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=henrique-roldao&show_icons=true" alt="henrique-roldao" /> </p>
 
