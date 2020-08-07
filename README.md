@@ -2,7 +2,7 @@
 <h3 align="center">I'm a newbie in the programming world</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henrique-roldao" alt="henrique-roldao" /> </p>
 
-- :rage: I don't currently work with programming
+- 💼 Tutor for e-duca.Digital 
 
 - 👨‍💻 Programming student at ULBRA Torres - RS
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **henriqueroldao@rede.ulbra.br**
 
-- 😎 Dominant Technologies ⬇️
+- :notebook: Currently working with ⬇️
 
 <p align="left"><img src="https://image.flaticon.com/icons/svg/919/919826.svg" alt="css3" width="30" height="30"/> <img src="https://image.flaticon.com/icons/svg/919/919827.svg" alt="html5" width="30" height="30"/> <img src="https://image.flaticon.com/icons/svg/919/919828.svg" alt="javascript" width="30" height="30"/></p> <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=henrique-roldao&show_icons=true" alt="henrique-roldao" /> </p>
 
