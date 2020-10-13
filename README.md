@@ -24,8 +24,7 @@
 
 
 
-![Henrique Roldão](https://github-readme-stats.vercel.app/api?username=henrique-roldao&show_icons=true&theme=radical&count_private=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-roldao&layout=compact&custom_title=Henrique+languages&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=henrique-roldao&show_icons=true" alt="henrique-roldao" /> </p>
 
 <p align="center">
 <a href="https://twitter.com/rique_roldao" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@rique_roldao" height="20" width="20" /></a>
