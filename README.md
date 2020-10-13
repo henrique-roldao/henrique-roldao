@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **henriqueroldao@rede.ulbra.br**
 
-- :globe_with_meridians: My website: henriqueroldao.com.br
+- :globe_with_meridians: My website: **www.henriqueroldao.com.br**
 
 **Languages and Tools**
 
