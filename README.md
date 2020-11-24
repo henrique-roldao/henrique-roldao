@@ -2,7 +2,7 @@
 <h3 align="center">I'm a newbie in the programming world</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henrique-roldao" alt="henrique-roldao" /> </p>
 
-- 💼 Tutor for e-duca.Digital 
+- 💼 SEO Trainee for <a href="https://www.instagram.com/hugsagencia/">Hugs</a>
 
 - 👨‍💻 Programming student at ULBRA Torres - RS
 
