@@ -25,10 +25,3 @@
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=henrique-roldao&show_icons=true" alt="henrique-roldao" /> </p>
-
-<p align="center">
-<a href="https://twitter.com/rique_roldao" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@rique_roldao" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/henrique-roldão-2795191a2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="henrique-roldao" height="20" width="20" /></a>
-<a href="https://www.facebook.com/henrique.boffroldao" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="henrique-roldao" height="20" width="20" /></a>
-<a href="https://www.instagram.com/rique_roldao" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="henrique-roldao" height="20" width="20" /></a>
-</p>
