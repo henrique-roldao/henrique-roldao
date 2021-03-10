@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Henrique Roldão</h1>
+<h1 align="center">Hi <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> I'm Henrique Roldão</h1>
 <h3 align="center">A passionate frontend developer from Brazil.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henrique-roldao&label=Profile%20views&color=0e75b6&style=flat" alt="henrique-roldao" /> </p>
