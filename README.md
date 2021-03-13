@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rique_roldao" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rique_roldao" height="30" width="40" /></a>
+<a href="https://twitter.com/rique_roldao" target="blank"><img color="red" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rique_roldao" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/henrique-roldao/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="henrique-roldão" height="30" width="40" /></a>
 <a href="https://fb.com/henrique.boffroldao" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="henrique.boffroldao" height="30" width="40" /></a>
 <a href="https://instagram.com/rique_roldao" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rique_roldao" height="30" width="40" /></a>
