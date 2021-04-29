@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="" height="32" />! I'm Henrique Roldão</h1>
+<h1 align="center">Hi <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn_wu_6Em6d_F93skYsGrjftqvo_xisUF96Q&usqp=CAU" height="32" />! I'm Henrique Roldão</h1>
 <h3 align="center">A passionate frontend developer from Brazil.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henrique-roldao&label=Profile%20views&color=0e75b6&style=flat" alt="henrique-roldao" /> </p>
