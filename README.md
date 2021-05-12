@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **UX Design, Web Development**
 
-- 💬 Ask me about **HTML, CSS, Javascript, Adobe XD**
+- 💬 Ask me about **HTML, CSS, Javascript, UI Design**
 
 - 📫 How to reach me **henriqueroldao@rede.ulbra.br**
 
