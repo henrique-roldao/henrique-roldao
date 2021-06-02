@@ -6,7 +6,7 @@ import Developer from 'Henrique_Roldao';
 class Bio extends Developer {
   name     = 'Henrique Roldão';
   location = 'Torres, RS';
-  title    = ['Front-end Engineer', 'UI Design'];
+  title    = 'Front-end Engineer & UI Design';
   company  = 'Soloed_ | Remote';
 }
 
