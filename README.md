@@ -11,10 +11,10 @@ class Bio extends Developer {
 }
 
 class Skills extends Developer {
-  languages  = ['JavaScript', 'Dart'];
-  databases  = ['MySQL'];
-  frameworks = ['React', 'Bootstrap'];
-  frontEnd  = ['HTML','CSS', 'SASS'];
+  languages    = ['JavaScript', 'Dart'];
+  databases    = ['MySQL'];
+  frameworks   = ['React', 'Bootstrap'];
+  frontEnd     = ['HTML','CSS', 'SASS'];
   workingTools = ['Figma', 'Adobe XD', 'Linux']
 }
 ```
