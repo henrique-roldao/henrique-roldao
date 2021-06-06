@@ -18,7 +18,8 @@ class Skills extends Developer {
   workingTools = ['Figma', 'Adobe XD', 'Linux']
 }
 ```
-<br/>
 
+ ##
+ 
 ![Snake animation](https://github.com/henrique-roldao/henrique-roldao/blob/output/github-contribution-grid-snake.svg)
 
