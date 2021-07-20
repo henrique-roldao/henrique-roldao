@@ -14,7 +14,7 @@ class Skills extends Developer {
   languages    = ['JavaScript', 'Dart'];
   databases    = ['MySQL'];
   frameworks   = ['React.JS, Bootstrap'];
-  frontEnd     = ['HTML','CSS', 'SASS'];
+  frontEnd     = ['UI & UX ', 'HTML','CSS', 'SASS'];
   workingTools = ['Figma', 'Adobe XD', 'Linux']
 }
 ```
