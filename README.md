@@ -3,7 +3,7 @@
 ```js
 import Profile from 'Henrique_Roldao';
 
-class Bio extends Developer {
+class Bio extends Profile {
   name     = 'Henrique Roldão';
   location = 'Torres, RS';
   title    = 'Product Designer | UI and UX Designer';
