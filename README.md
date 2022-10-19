@@ -6,8 +6,8 @@ import Developer from 'Henrique_Roldao';
 class Bio extends Developer {
   name     = 'Henrique Roldão';
   location = 'Torres, RS';
-  title    = 'Product Designer';
-  company  = 'Betha Sistemas | Remote';
+  title    = 'Product Designer | UI and UX Designer';
+  company  = 'NULL | NULL';
 }
 
 class Skills extends Developer {
