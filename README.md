@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henrique-roldao&label=Profile%20views&color=0e75b6&style=flat" alt="henrique-roldao" /> </p>
 
 ```js
-import Developer from 'Henrique_Roldao';
+import Profile from 'Henrique_Roldao';
 
 class Bio extends Developer {
   name     = 'Henrique Roldão';
