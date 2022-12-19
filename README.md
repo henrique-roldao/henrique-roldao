@@ -6,14 +6,14 @@ import Profile from 'Henrique_Roldao';
 class Bio extends Profile {
   name     = 'Henrique Roldão';
   location = 'Torres, RS';
-  title    = 'Product Designer | UI and UX Designer';
+  title    = 'Product Designer | UI and UX Designer | Front-end Dev.';
   company  = 'NULL | NULL';
 }
 
 class Skills extends Developer {
-  languages    = ['JavaScript', 'Dart', 'Java', 'C#'];
+  languages    = ['JavaScript', 'Dart', 'Java',];
   databases    = ['MySQL'];
-  frameworks   = ['React.JS, Bootstrap', 'Dotnet'];
+  frameworks   = ['React.JS, Bootstrap'];
   frontEnd     = ['UI & UX ', 'HTML', 'CSS', 'SASS'];
   workingTools = ['Figma', 'Adobe XD', 'Linux']
 }
