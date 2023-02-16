@@ -11,7 +11,7 @@ class Bio extends Profile {
 }
 
 class Skills extends Developer {
-  languages    = ['JavaScript', 'Dart', 'Java',];
+  languages    = ['JavaScript', 'Java',];
   databases    = ['MySQL'];
   frameworks   = ['React.JS, Bootstrap'];
   frontEnd     = ['UI & UX ', 'HTML', 'CSS', 'SASS'];
