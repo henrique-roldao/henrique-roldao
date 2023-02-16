@@ -6,7 +6,7 @@ import Profile from 'Henrique_Roldao';
 class Bio extends Profile {
   name     = 'Henrique Roldão';
   location = 'Torres, RS';
-  title    = 'Product Designer | UI and UX Designer | Front-end Dev.';
+  title    = 'Product Designer, UI and UX Designer, Front-end Dev.';
   company  = 'NULL | NULL';
 }
 
